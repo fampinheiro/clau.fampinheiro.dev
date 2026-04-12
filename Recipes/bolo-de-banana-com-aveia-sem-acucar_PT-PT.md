@@ -6,11 +6,11 @@ date_added: 2026-04-12
 language: pt-PT
 tags:
   - recipe
-  - sobremesa
-  - bolo
+  - dessert
+  - cake
   - banana
-  - aveia
-  - sem-acucar
+  - oats
+  - no-sugar
 notes: "Adaptação PT-PT. Ingredientes extraídos da página; modo de preparo abaixo está em formato adaptado (não extraído integralmente)."
 ---
 
