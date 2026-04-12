@@ -1,48 +1,40 @@
-# Bolo de banana com aveia sem açúcar (PT-PT)
+---
+title: "Bolo de banana com aveia (sem açúcar)"
+original_title: "Bolo de banana com aveia sem açúcar"
+source_url: "https://www.receiteria.com.br/receita/bolo-de-banana-com-aveia-sem-acucar/"
+date_added: 2026-04-12
+language: pt-PT
+tags:
+  - recipe
+  - sobremesa
+  - bolo
+  - banana
+  - aveia
+  - sem-acucar
+notes: "Adaptação PT-PT. Ingredientes extraídos da página; modo de preparo abaixo está em formato adaptado (não extraído integralmente)."
+---
 
-Fonte: https://www.receiteria.com.br/receita/bolo-de-banana-com-aveia-sem-acucar/
+## Resumo
 
-Data adicionada: 2026-04-12
+Um bolo rico em fibras, sem açúcar e sem farinha de trigo. Bananas bem maduras adoçam naturalmente e deixam o bolo húmido; a canela dá um toque extra.
 
-Notas: Versão em PT-PT adaptada; conteúdo inspirado pela receita original (pt-BR).
+## Ingredientes
 
-Titulo original: Bolo de banana com aveia sem açúcar
+(Extraídos da página da Receiteria)
 
-Resumo (PT-PT):
-
-Um bolo rico em fibras, sem açúcar e sem farinha de trigo. Pode ficar ainda melhor? Basta adicionar bananas bem maduras que, para além de adoçarem o bolo, conferem maciez à massa, resultando num bolo húmido. Para ficar ainda melhor, utilize canela em pó.
-
-Ingredientes (PT-PT):
-- 4 bananas maduras
-- 1 chávena de aveia em flocos finos
+- 4 bananas médias bem maduras
 - 2 ovos
 - Canela em pó a gosto
-- Adoçante, se necessário
-- 1 colher de sopa de óleo ou azeite
-- 1 colher de chá de fermento químico em pó
-- Pitada de sal
+- 1 chávena de chá de aveia em flocos finos *(na receita original aparece como “1 xícara de chá”)*
+- 1 colher de chá de fermento químico em pó (fermento para bolo)
 
-Instruções (PT-PT):
-1) Amasar as bananas.
-2) Misturar os ingredientes secos (aveia, fermento, canela, sal).
-3) Combinar bananas amassadas com ovos e óleo; incorporar aos secos.
-4) Levar ao forno pré-aquecido a 180°C em forma untada, por 25–35 minutos, até ficar húmido no centro.
+## Modo de preparação (adaptado)
 
-Notas: Conteúdo adaptado; ajuste de tempo pode ser necessário conforme o forno.
+1) Pré-aqueça o forno a 180°C e unte uma forma.
+2) Amasse as bananas e junte os ovos.
+3) Adicione a aveia, a canela e o fermento; misture até ficar homogéneo.
+4) Leve ao forno até cozer (o tempo varia conforme a forma e o forno).
 
-Original title: Bolo de banana com aveia sem açúcar
+## Notas
 
-Resumo (versão PT-PT): (repetido para referência)
-
-Ingredientes (PT-PT, sugeridos):
-- bananas maduras
-- aveia em flocos
-- ovos
-- adoçante (se necessário)
-- canela
-- óleo ou azeite
-- fermento em pó
-- pitada de sal
-
-Instruções (PT-PT, sugeridas):
-1) Amasse as bananas; 2) Misture os ingredientes secos; 3) Combine secos com bananas/ovos; 4) Leve ao forno em forma untada a 180°C por cerca de 25-35 min.
+- Se quiser, posso atualizar esta secção com o **modo de preparo exacto** se me enviar os passos tal como aparecem no site (texto/captura).

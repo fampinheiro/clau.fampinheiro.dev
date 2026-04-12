@@ -1,14 +1,20 @@
-# Banana Oat Flour Cake (EN-US)
+---
+title: "Banana oat cake (no sugar)"
+aliases:
+  - "Banana Oat Flour Cake"
+original_title: "Bolo de banana com aveia sem açúcar"
+source_url: "https://www.receiteria.com.br/receita/bolo-de-banana-com-aveia-sem-acucar/"
+date_added: 2026-04-12
+language: en
+region: "US"
+tags:
+  - recipe
+  - dessert
+  - cake
+  - banana
+  - oats
+  - no-sugar
+notes: "Redirect/alias note. Canonical English version lives in the EN note."
+---
 
-Source: https://www.receiteria.com.br/receita/bolo-de-banana-com-aveia-sem-acucar/
-
-Date added: 2026-04-12
-
-Notes: Portuguese (Portugal) adaptation requested; English version created for reference.
-
-Original title: Bolo de banana com aveia sem açúcar
-
-Summary (EN-US):
-A fiber-rich cake, sugar-free and flour-free. Ripe bananas add natural sweetness and moisture; cinnamon adds warmth.
-
-Content extracted: not available in the current source; please provide the list of ingredients and steps for a complete version.
+Canonical note: [[bolo-de-banana-com-aveia-sem-acucar_EN]]
